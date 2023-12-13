@@ -9,11 +9,11 @@
   <tr>for contact</tr>
   <tr>
     <td>
-      <a href="https://instagram.com/mgzn">
+      <a href="https://www.instagram.com/mgzn.com.tm">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a> 
     <td>
-      <a href="https://youtube.com/mgzn">
+      <a href="https://www.youtube.com/channel/UC8uSy6mjmsDSie93CkKiaSA">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
       </a> 
      <td>
